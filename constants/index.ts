@@ -21,7 +21,7 @@ export const sidebarLinks: Props[] = [
     label: "Previous",
   },
   {
-    imgUrl: "/icons/video.svg",
+    imgUrl: "/icons/Video.svg",
     route: "/recordings",
     label: "Recordings",
   },
